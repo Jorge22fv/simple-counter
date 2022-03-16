@@ -1,4 +1,11 @@
-
+.clock{
+    background-color: black;
+    color: white;
+    margin:auto;
+    width: 80px;
+    text-align: center;
+    border-radius: 30px;
+}
 /* 
 
     You can write your own styles here...
